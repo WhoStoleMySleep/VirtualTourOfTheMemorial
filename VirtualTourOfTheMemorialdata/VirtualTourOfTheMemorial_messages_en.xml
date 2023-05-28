@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano36_title"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon197_tooltip"><![CDATA[БМП-1]]></data>
+  <data name="en_spotpolygon198_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon199_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon239_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon240_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon401_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon402_tooltip"><![CDATA[Далее]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[БМП-1]]></data>
+  <data name="en_spotpolygon565_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon622_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon623_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon624_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon1104_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano40_title"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon630_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon631_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon632_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon633_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon634_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon635_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon1102_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon636_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon637_tooltip"><![CDATA[БТР-60]]></data>
+  <data name="en_spotpolygon638_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon639_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon640_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon641_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon642_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon1101_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[БТР-60]]></data>
+  <data name="en_spotpolygon643_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon644_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon645_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon646_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon647_tooltip"><![CDATA[Т-62]]></data>
+  <data name="en_spotpolygon975_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon1100_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano46_title"><![CDATA[БРДМ-2]]></data>
+  <data name="en_spotpolygon985_tooltip"><![CDATA[Т-62]]></data>
+  <data name="en_spotpolygon986_tooltip"><![CDATA[БТР-60]]></data>
+  <data name="en_spotpolygon987_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon988_tooltip"><![CDATA[Т-72А]]></data>
+  <data name="en_spotpolygon1098_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon993_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon994_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon995_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon996_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon997_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon998_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon1105_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano52_title"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon999_tooltip"><![CDATA[БРДМ-2]]></data>
+  <data name="en_spotpolygon1000_tooltip"><![CDATA[Т-72А]]></data>
+  <data name="en_spotpolygon1001_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon1002_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon1003_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon1004_tooltip"><![CDATA[БМП-1]]></data>
+  <data name="en_spotpolygon1005_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon1006_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon1007_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon1106_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano54_title"><![CDATA[Т-72А]]></data>
+  <data name="en_spotpolygon989_tooltip"><![CDATA[БРДМ-2]]></data>
+  <data name="en_spotpolygon990_tooltip"><![CDATA[Т-62]]></data>
+  <data name="en_spotpolygon991_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon992_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon1097_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano94_title"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon625_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon626_tooltip"><![CDATA[БМП-1]]></data>
+  <data name="en_spotpolygon627_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon628_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon629_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon1103_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano124_title"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon403_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon404_tooltip"><![CDATA[БМП-1]]></data>
+  <data name="en_spotpolygon405_tooltip"><![CDATA[Т-80]]></data>
+  <data name="en_spotpolygon406_tooltip"><![CDATA[Пушка М-46]]></data>
+  <data name="en_spotpolygon407_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon408_tooltip"><![CDATA[БТР-60]]></data>
+  <data name="en_spotpolygon553_tooltip"><![CDATA[БРДМ-2]]></data>
+  <data name="en_spotpolygon554_tooltip"><![CDATA[Т-72А]]></data>
+  <data name="en_spotpolygon555_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon556_tooltip"><![CDATA[Пушка Т-12]]></data>
+  <data name="en_spotpolygon564_tooltip"><![CDATA[Т-62]]></data>
+  <data name="en_spotpolygon1096_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano562_title"><![CDATA[Т-62]]></data>
+  <data name="en_spotpolygon976_tooltip"><![CDATA[Далее]]></data>
+  <data name="en_spotpolygon977_tooltip"><![CDATA[Вход]]></data>
+  <data name="en_spotpolygon978_tooltip"><![CDATA[БТР-60]]></data>
+  <data name="en_spotpolygon981_tooltip"><![CDATA[Т-64]]></data>
+  <data name="en_spotpolygon982_tooltip"><![CDATA[БРДМ-2]]></data>
+  <data name="en_spotpolygon983_tooltip"><![CDATA[Т-72А]]></data>
+  <data name="en_spotpolygon984_tooltip"><![CDATA[Черный тюльпан]]></data>
+  <data name="en_spotpolygon1099_tooltip"><![CDATA[Погибшим юргинцам]]></data>
+
+
+  <data name="en_pano1094_title"><![CDATA[Погибшим юргинцам]]></data>
+  <data name="en_spotpolygon1107_tooltip"><![CDATA[Далее]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
